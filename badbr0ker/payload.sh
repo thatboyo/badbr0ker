@@ -37,7 +37,9 @@ echo "Ck9PT08gICBPT08gIE9PT08gIE9PT08gIE9PT09PICBPT09PICBPT08gIE8gICBPIE9PT09PIE
 
 echo "Welcome to BadRecovery (unverified)"
 echo "Script date: $SCRIPT_DATE"
-echo "https://github.com/BinBashBanana/badrecovery"
+echo ""
+echo "follow thatboyo on github"
+echo "https://github.com/thatboyo
 echo ""
 
 echo "Creating RW /tmp"
